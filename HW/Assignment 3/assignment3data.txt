@@ -1,0 +1,56 @@
+Chevrolet 43 2 Brown 3.610 7 6.59
+Pontiac 22 1 Brown 3.700 6
+Chevrolet 21 1 Brown 3.000 5
+GMC 29 1 Brown 1.667 6
+Dodge 21 0 Blue 2.760 10 10
+Ford 46 3 Hazel 3.481 5 6.4
+Toyota 31 3 Green 3.670 6.5 9.4
+Honda 33 0 Brown 2.730 7 11
+Honda 32 2 Hazel 3.167 6 176
+Jeep 27 0 Green 0.000 8 33
+Chevrolet 25 0 Brown 2.758 7.5 24.5
+Dodge 35 3 Green 1.000 7 10
+Mercury 20 0 Blue 4.000 11 8
+Honda 18 0 Blue 1.333 6 14.1
+Toyota 34 2 Hazel 3.250 7 13.57
+Toyota 30 2 Green 0.000 6.5 42
+Toyota 29 3 Green 2.500 7 15
+Nissan 26 1 Brown 3.000 7 15
+Toyota 35 2 Green 3.700 6.5 18.8
+Ford 28 0 Green 2.900 5 51
+Toyota 21 0 Brown 2.500 7 15
+Honda 26 0 Green 3.429 7.5 7.2
+Nissan 28 0 Brown 2.500 6 8.7
+Ford 31 2 Blue 4.000 8 10
+Toyota 27 1 Green 2.200 7 12
+Nissan 35 2 Blue 3.226 6
+Mitsubishi 19 0 Green 2.850 8
+Dodge 33 1 Brown 2.840 5 32
+Infiniti 22 0 Brown 4.000 7 30
+Ford 22 0 Brown 2.900 8
+Honda 33 2 Hazel 3.906 8 10
+Jeep 27 2 Green 0.000 9
+Honda 18 0 Brown 1.850 8 35
+Ford 26 1 Brown 0.727 7
+BMW 23 2 Hazel 6 7
+Toyota 32 0 Brown 3.200 7 8
+Toyota 50 0 Blue 0.000 7 45
+Ford 26 1 Blue 2.280 3
+Jeep 20 0 Green 0.000
+Volkswagon 28 2 Blue 4.000 8 10.59
+Toyota 31 1 Brown 2.500 5 22
+Acura 20 0 Blue 3.325 7
+Pontiac 40 4 Hazel 2.800 6 50
+Hyundai 19 0 Brown 4.000 6 12
+Ford 27 2 Brown 3.500 6 4.82
+Hyundai 32 0 Dark Brown 2.000 5.5 43.1
+Honda 19 1 Brown 1.000 7 40.2
+Pontiac 45 0 Brown 2.600 8 5.3
+Toyota 23 0 Brown 0.000 6 28
+Mazda 24 1 Blue 1.667 7 48
+Audi 19 0 Green 0.000 7 15
+Honda 34 2 Blue 2.000 8 15
+Mazda 58 3 Brown 6.5 14
+Ford 21 1 Brown 2.900 6 1
+Honda 23 2 Black 2.800 8 30.5
+Kia 24 0 Green 2.600 5 10
